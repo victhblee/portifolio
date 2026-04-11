@@ -450,7 +450,7 @@ section h2 span {
 /* Círculo verde central */
 .home-img::before {
     content: "";
-    position: absolute;
+    position: center
 
     width: 400px;
     height: 400px;
